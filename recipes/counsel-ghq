@@ -1,0 +1,1 @@
+(counsel-ghq :fetcher github :repo "windymelt/counsel-ghq")
